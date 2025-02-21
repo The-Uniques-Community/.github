@@ -37,10 +37,6 @@ The **Uniques Community** is a vibrant group of young tech enthusiasts where eve
 🔹 Follow us on **LinkedIn**: [@UniquesCommunity](https://www.linkedin.com/company/theuniquesofflicial/)  
 🔹 Contribute to our **GitHub**: [github.com/The-Uniques-Community](https://github.com/The-Uniques-Community)
 
-## 📜 License
-
-This project is licensed under the **MIT License** – free to use, modify, and share!
-
 ---
 
 🌟 *Empowering students. Building the future.* 🌟
